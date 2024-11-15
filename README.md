@@ -10,5 +10,4 @@ About me:
 - I'm interested in Reproducible Research (and obviously open-source)
 
 
-Contact me:
-https://www.linkedin.com/in/sevdarafatov/
+
